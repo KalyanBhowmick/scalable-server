@@ -1,0 +1,17 @@
+{
+  "name": "scalable-backend",
+  "version": "1.0.0",
+  "description": "A simple and powerful node server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Kalyan B",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
